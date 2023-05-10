@@ -6,7 +6,7 @@ const Experience = () => {
     return (
         <section id='experience'>
             <h5>What Skills I Have</h5>
-            <h2>My Experience</h2>
+            <h2>My Skill Set</h2>
             <div className="container experience_container">
 
                 <div className="experience__frontend">
@@ -84,7 +84,7 @@ const Experience = () => {
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>SQL Server, MongoDB</h4>
+                                <h4>SQL, MongoDB</h4>
                                 <small className='text-light'>Intermidiate</small>
                             </div>
                         </article>
